@@ -35,7 +35,7 @@ class NameAvtar extends StatelessWidget {
                   color: Styles.primary,
                 ),
               ),
-              backgroundColor: Styles.primary_light_third,
+              backgroundColor: Styles.primary_light_three,
             ) ,
           ),
         ],
